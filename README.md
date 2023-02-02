@@ -14,4 +14,5 @@ Build files for each platform are placed in separate branches.
 
 ## Usage
 To get only a specific branch run `git clone` by passing the branch name to `-b` argument with `--single-branch` option:
+
     git clone -b linux --single-branch https://github.com/nejatafshar/FFmpegBin.git
