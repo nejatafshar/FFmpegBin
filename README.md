@@ -13,5 +13,5 @@ FFmpeg light builds for different platforms. Only frequently used formats and co
 Build files for each platform are placed in separate branches.
 
 ## Usage
-To get only a specific branch run `git clone` by passing the branch name to `-b` argument:
-    git clone -b linux https://github.com/nejatafshar/FFmpegBin.git
+To get only a specific branch run `git clone` by passing the branch name to `-b` argument with `--single-branch` option:
+    git clone -b linux --single-branch https://github.com/nejatafshar/FFmpegBin.git
